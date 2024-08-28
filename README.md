@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fuzi_smuzi">
+<img alt="Static Badge" src="https://img.shields.io/badge/vk-%23309fee?style=for-the-badge&logo=vk&logoColor=white&link=https%3A%2F%2Fvk.com%2Fuzi_smuzii">
 
-<!--<img src="https://github.com/ShlenkinVV/ShlenkinVV/blob/main/14.gif" width=300>-->
+<!--<img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=plastic&logo=python&logoColor=white">
+<img src="https://github.com/ShlenkinVV/ShlenkinVV/blob/main/14.gif" width=300>-->
 <!--
 **ShlenkinVV/ShlenkinVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
