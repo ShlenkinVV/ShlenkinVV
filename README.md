@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<img src="https://github.com/ShlenkinVV/ShlenkinVV/blob/main/14.gif">
+<!--<img src="https://github.com/ShlenkinVV/ShlenkinVV/blob/main/14.gif" width=300>-->
 <!--
 **ShlenkinVV/ShlenkinVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
