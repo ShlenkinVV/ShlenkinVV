@@ -25,7 +25,7 @@
 
 <h4 align='center'>= Databases =</h4>
 <p align='center'>
-  <img src="./resources/postgres.png" />&nbsp;&nbsp;&nbsp; 
+  <img src="./resources/postgres.png" width="48px"/>&nbsp;&nbsp;&nbsp; 
 </p>
 <hr>
   
