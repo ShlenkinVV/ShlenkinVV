@@ -4,7 +4,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/vk-%23309fee?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/uzi_smuzii">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=plastic&logo=python&logoColor=white">-->
-<img src="https://github.com/ShlenkinVV/ShlenkinVV/blob/main/14.gif" width=300>
+<img src="https://github.com/ShlenkinVV/ShlenkinVV/blob/main/Gosling.gif" width=300>
 <!--
 **ShlenkinVV/ShlenkinVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
