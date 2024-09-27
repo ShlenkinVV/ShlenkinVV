@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<a href="https://t.me/uzi_smuzi"><img alt="Static Badge" src="https://img.shields.io/badge/uzi_smuzi-blue?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-<a href="https://vk.com/uzi_smuzii"><img alt="Static Badge" src="https://img.shields.io/badge/vk-%23309fee?style=for-the-badge&logo=vk&logoColor=white"></a>
+<!--<a href="https://t.me/uzi_smuzi"><img alt="Static Badge" src="https://img.shields.io/badge/uzi_smuzi-blue?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="https://vk.com/uzi_smuzii"><img alt="Static Badge" src="https://img.shields.io/badge/vk-%23309fee?style=for-the-badge&logo=vk&logoColor=white"></a>-->
 
 
 <img src="https://github.com/ShlenkinVV/ShlenkinVV/blob/main/Gosling.gif"  width=300>
@@ -59,9 +59,9 @@
         </tr>
       </table>
     </td>
-<!--     <td align="center">
-      <img width="350" height="250" src="./resources/workspace-gif.gif">
-    </td> -->
+     <td align="center">
+      <img width="350" height="250" src="./resources/code.gif">
+    </td> 
   </tr>
 </table>
 <hr>
