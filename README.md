@@ -5,8 +5,8 @@
 
 
 <img src="https://github.com/ShlenkinVV/ShlenkinVV/blob/main/Gosling.gif"  width=300>
-<img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=plastic&logo=python&logoColor=white" width=100>
-
+<!-- <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=plastic&logo=python&logoColor=white" width=100> -->
+<hr>
 <h3 align="center"> :: My Tech-Stack Includes :: </h3>
 
 <h4 align='center'>{ Programming Languages }</h4>
@@ -21,6 +21,50 @@
   <img src="./resources/html-5.png" />&nbsp;&nbsp;
   <img src="./resources/nodejs.png" />&nbsp;&nbsp;&nbsp; 
 </p>
+<hr>
+  
+<h3 align="center">🔎 Find me around the web 🌎</h3>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <table align="center" width="100%">
+        <tr>
+          <td align="center">
+            <img width="150" height="250" src="./resources/boy.png">
+          </td>
+          <td align="center">
+            <table align="center" width="100%">
+              <tr>
+                <td align="center">
+                  <a href="https://t.me/uzi_smuzi"> <img src="./resources/Telegram.png" width="48px"/> </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://vk.com/uzi_smuzii"> <img src="./resources/VK.png" width="48px"/> </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://twitter.com/_motasim_"> <img src="./resources/mail_ru.png" width="48px"/> </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://www.instagram.com/vo_one"> <img src="./resources/instagram.png" width="50px"/> </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+<!--     <td align="center">
+      <img width="350" height="250" src="./resources/workspace-gif.gif">
+    </td> -->
+  </tr>
+</table>
+<hr>
 <!-- <img alt="Static Badge" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> -->
 <!--
 **ShlenkinVV/ShlenkinVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
