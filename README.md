@@ -47,7 +47,7 @@
               </tr>
               <tr>
                 <td align="center">
-                  <a href="https://discordapp.com/users/335798095998615552""> <img src="./resources/discord.png" width="48px"/> </a>
+                  <a href="https://discordapp.com/users/335798095998615552""> <img src="./resources/discord_.png" width="48px"/> </a>
                 </td>
               </tr>
               <tr>
