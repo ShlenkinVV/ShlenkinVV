@@ -19,7 +19,8 @@
 <h4 align='center'>< Web Technologies /></h4>
 <p align='center'>
   <img src="./resources/html-5.png" />&nbsp;&nbsp;
-  <img src="./resources/nodejs.png" />&nbsp;&nbsp;&nbsp; 
+  <img src="./resources/nodejs.png" />&nbsp;&nbsp;&nbsp;
+    <img src="./resources/django-badge.png" width="48px"/>&nbsp;&nbsp;
 </p>
 <hr>
   
@@ -46,7 +47,7 @@
               </tr>
               <tr>
                 <td align="center">
-                  <a href="https://twitter.com/_motasim_"> <img src="./resources/mail_ru.png" width="48px"/> </a>
+                  <a href="https://discordapp.com/users/335798095998615552""> <img src="./resources/discord.png" width="48px"/> </a>
                 </td>
               </tr>
               <tr>
