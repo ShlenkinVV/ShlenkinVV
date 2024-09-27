@@ -3,9 +3,10 @@
 <!--<a href="https://t.me/uzi_smuzi"><img alt="Static Badge" src="https://img.shields.io/badge/uzi_smuzi-blue?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 <a href="https://vk.com/uzi_smuzii"><img alt="Static Badge" src="https://img.shields.io/badge/vk-%23309fee?style=for-the-badge&logo=vk&logoColor=white"></a>-->
 
-<p style="text-align: center;">
+<p align="center">
   <img src="https://github.com/ShlenkinVV/ShlenkinVV/blob/main/Gosling.gif"  width=300>
 </p>
+
 <!-- <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=plastic&logo=python&logoColor=white" width=100> -->
 <hr>
 <h3 align="center"> :: My Tech-Stack Includes :: </h3>
