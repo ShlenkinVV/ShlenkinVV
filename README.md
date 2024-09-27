@@ -22,6 +22,11 @@
   <img src="./resources/nodejs.png" />&nbsp;&nbsp;&nbsp;
     <img src="./resources/django-badge.png" width="48px"/>&nbsp;&nbsp;
 </p>
+
+<h4 align='center'>= Databases =</h4>
+<p align='center'>
+  <img src="./resources/postgres.png" />&nbsp;&nbsp;&nbsp; 
+</p>
 <hr>
   
 <h3 align="center">🔎 Find me around the web 🌎</h3>
