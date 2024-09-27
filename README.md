@@ -64,10 +64,10 @@
           </td>
         </tr>
       </table>
-    </td>
+<!--     </td>
      <td align="center">
       <img width="350" height="250" src="./resources/code.gif">
-    </td> 
+    </td>  -->
   </tr>
 </table>
 <hr>
