@@ -30,7 +30,19 @@
   <img src="./resources/postgres.png" width="48px"/>&nbsp;&nbsp;&nbsp; 
 </p>
 <hr>
-  
+
+## 🙋‍♂️ About Me
+
+🚀 Vladimir Shlenkin  
+Tolyatti State University - Applied mathematics and computer science  
+
+🛠️ **Skills:**
+- **Languages:** Java, HTML, CSS, JavaScript, Python, C++, SQL
+- **Frameworks:** Django, Express JS, Node.js
+- **Libraries:** NumPy, Pandas, Matplotlib
+- **Tools:** VS Code, Postman, GitHub, PostgreSQL, Docker
+<hr>  
+
 <h3 align="center">🔎 Find me around the web 🌎</h3>
 <table align="center" width="100%">
   <tr>
