@@ -20,9 +20,9 @@
 
 <h4 align='center'>< Web Technologies /></h4>
 <p align='center'>
-  <img src="./resources/html-5.png" />&nbsp;&nbsp;
+  <img src="./resources/airflow.png" width="48px"/>&nbsp;&nbsp;
   <img src="./resources/nodejs.png" />&nbsp;&nbsp;&nbsp;
-    <img src="./resources/django-badge.png" width="48px"/>&nbsp;&nbsp;
+  <img src="./resources/django-badge.png" width="48px"/>&nbsp;&nbsp;
 </p>
 
 <h4 align='center'>= Databases =</h4>
