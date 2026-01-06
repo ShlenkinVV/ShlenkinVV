@@ -33,14 +33,18 @@
 
 ## 🙋‍♂️ About Me
 
-🚀 Vladimir Shlenkin  
+🚀 Vladimir Shlenkin 
+### Education
 Tolyatti State University - Applied mathematics and computer science  
 
+### Work
+I work at SBER as a data engineer in the machine learning data preparation center. My primary responsibilities include writing pipelines for processing and transferring data at various stages of data annotation.
+
 🛠️ **Skills:**
-- **Languages:** Java, HTML, CSS, JavaScript, Python, C++, SQL
+- **Languages:** Java, JavaScript, Python, C++, SQL
 - **Frameworks:** Django, Express JS, Node.js
-- **Libraries:** NumPy, Pandas, Matplotlib
-- **Tools:** VS Code, Postman, GitHub, PostgreSQL, Docker
+- **Libraries:** NumPy, Pandas, asyncio
+- **Tools:** Apache Airflow, Postman, Git, PostgreSQL, Docker
 <hr>  
 
 <h3 align="center">🔎 Find me around the web 🌎</h3>
